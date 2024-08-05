@@ -1,4 +1,4 @@
-name: Bmw-md
+name: Muzammil-md
 type: WEB
 
 routes:
@@ -14,7 +14,7 @@ env:
   AUTO_READ_STATUS: yes
   PRESENCE: 1
   STARTING_BOT_MESSAGE: yes
-  KOYEB_APP_NAME: Bmw md
+  KOYEB_APP_NAME: Muzammil md
 
 regions:
   - fra
